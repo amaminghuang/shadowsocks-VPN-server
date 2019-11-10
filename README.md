@@ -6,3 +6,4 @@
 ```
 sudo bash vpn.sh  # root权限是必须的
 ```
+做个备份 
